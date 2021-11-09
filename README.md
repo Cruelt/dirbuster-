@@ -1,4 +1,4 @@
-# dirbuster-
+# Dirbuster
 Simple Python3 Tool.
 For Directory BruteForcing with Status-Code.
 usage.
